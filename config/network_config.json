@@ -2,8 +2,8 @@
   "version": "1.0.0",
   "protocol_version": 1,
   "bootstrap_nodes": [
-    "/ip4/13.61.2.183/tcp/4001/p2p/REPLACE_AFTER_FIRST_RUN",
-    "/ip4/16.171.28.101/tcp/4001/p2p/REPLACE_AFTER_FIRST_RUN"
+    "/ip4/13.61.2.183/tcp/4001",
+    "/ip4/16.171.28.101/tcp/4001"
   ],
   "max_peers_per_node": 50,
   "bandwidth_share_limit_mb": 500,
