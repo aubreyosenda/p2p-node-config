@@ -1,0 +1,14 @@
+{
+  "current_version": "1.0.0",
+  "minimum_supported_version": "1.0.0",
+  "release_notes": "Initial launch of the P2P node network.",
+  "force_update": false,
+  "update_message": "",
+  "downloads": {
+    "android": "https://REPLACE_WITH_YOUR_GITHUB_USERNAME.github.io/REPLACE_WITH_YOUR_REPO_NAME/releases/p2p-node-v1.0.0.apk",
+    "windows": "https://REPLACE_WITH_YOUR_GITHUB_USERNAME.github.io/REPLACE_WITH_YOUR_REPO_NAME/releases/p2p-node-v1.0.0-setup.exe",
+    "linux": "https://REPLACE_WITH_YOUR_GITHUB_USERNAME.github.io/REPLACE_WITH_YOUR_REPO_NAME/releases/p2p-node-v1.0.0-linux.tar.gz",
+    "macos": null,
+    "ios": null
+  }
+}

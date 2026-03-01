@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "protocol_version": 1,
+  "bootstrap_nodes": [
+    "/ip4/13.61.2.183/tcp/4001/p2p/REPLACE_AFTER_FIRST_RUN",
+    "/ip4/16.171.28.101/tcp/4001/p2p/REPLACE_AFTER_FIRST_RUN"
+  ],
+  "max_peers_per_node": 50,
+  "bandwidth_share_limit_mb": 500,
+  "storage_share_limit_gb": 2,
+  "features": {
+    "proxy_mode_enabled": false,
+    "storage_sharing_enabled": false,
+    "rewards_enabled": false,
+    "vpn_mode_enabled": true
+  },
+  "rewards_rate_per_gb": 0.05
+}
