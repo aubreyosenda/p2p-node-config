@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "seeds": [
+    {
+      "address": "/ip4/13.61.2.183/tcp/4001/p2p/12D3KooWNYJNx3pCisqFEJuUkgSMYPikwiCDZg4yUKmBQEjwRkcJ",
+      "country": "EU",
+      "label": "Bootstrap Server 1 (Stockholm)",
+      "domain": "",
+      "is_exit_node": true,
+      "is_bootstrap": true
+    },
+    {
+      "address": "/ip4/16.171.28.101/tcp/4001/p2p/12D3KooWFtg5Tn97mXRwpewnYTjeZnEHkHbBHniEi7H55j8geffc",
+      "country": "EU",
+      "label": "Bootstrap Server 2 (Frankfurt)",
+      "domain": "",
+      "is_exit_node": true,
+      "is_bootstrap": true
+    }
+  ]
+}
