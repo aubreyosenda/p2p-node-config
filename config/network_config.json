@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "protocol_version": 1,
   "bootstrap_nodes": [
     "/ip4/13.61.2.183/tcp/4001/p2p/12D3KooWNYJNx3pCisqFEJuUkgSMYPikwiCDZg4yUKmBQEjwRkcJ",
@@ -11,17 +11,17 @@
   "features": {
     "proxy_mode_enabled": true,
     "storage_sharing_enabled": true,
-    "rewards_enabled": false,
+    "rewards_enabled": true,
     "vpn_mode_enabled": true,
-    "xray_reality_enabled": false,
-    "blockchain_storage_enabled": false
+    "xray_reality_enabled": true,
+    "blockchain_storage_enabled": true
   },
   "rewards_rate_per_gb": 0.01,
   "max_monthly_earnings_usd": 5.00,
   "business_tier_gb": 500,
 
   "obfuscation": {
-    "enabled": false,
+    "enabled": true,
     "protocol": "vless",
     "transport": "tcp",
     "security": "reality",
@@ -51,7 +51,7 @@
   },
 
   "blockchain": {
-    "enabled": false,
+    "enabled": true,
     "merkle_root": "",
     "block_height": 0,
     "min_stake_credits": 1.0,
