@@ -4,10 +4,18 @@
   "bootstrap_nodes": [
     "/ip4/63.176.178.11/tcp/4001/p2p/12D3KooWF4vsYbtFF296AGnb1Vyqf2wbmACZUgqbSUWUCMu3LPa3",
     "/ip4/63.176.178.11/tcp/8443/p2p/12D3KooWF4vsYbtFF296AGnb1Vyqf2wbmACZUgqbSUWUCMu3LPa3",
+    "/ip6/2a05:d014:1b79:a700:c646:d4c9:2cd4:97ca/tcp/4001/p2p/12D3KooWF4vsYbtFF296AGnb1Vyqf2wbmACZUgqbSUWUCMu3LPa3",
+    "/ip6/2a05:d014:1b79:a700:c646:d4c9:2cd4:97ca/tcp/8443/p2p/12D3KooWF4vsYbtFF296AGnb1Vyqf2wbmACZUgqbSUWUCMu3LPa3",
+
     "/ip4/15.222.60.5/tcp/4001/p2p/12D3KooWQcvkE1TPeC84HUXYfdewSQFKYZLeHXxyVhv3xsydErHq",
     "/ip4/15.222.60.5/tcp/8443/p2p/12D3KooWQcvkE1TPeC84HUXYfdewSQFKYZLeHXxyVhv3xsydErHq",
+    "/ip6/2600:1f11:d7a:8700:7e05:c5b0:ab8f:6e86/tcp/4001/p2p/12D3KooWQcvkE1TPeC84HUXYfdewSQFKYZLeHXxyVhv3xsydErHq",
+    "/ip6/2600:1f11:d7a:8700:7e05:c5b0:ab8f:6e86/tcp/8443/p2p/12D3KooWQcvkE1TPeC84HUXYfdewSQFKYZLeHXxyVhv3xsydErHq",
+
     "/ip4/54.79.109.92/tcp/4001/p2p/12D3KooWCLRiWGx1efQnwEQSfEMAnZ44vjY3wK7TTMCFnyUho7GK",
-    "/ip4/54.79.109.92/tcp/8443/p2p/12D3KooWCLRiWGx1efQnwEQSfEMAnZ44vjY3wK7TTMCFnyUho7GK"
+    "/ip4/54.79.109.92/tcp/8443/p2p/12D3KooWCLRiWGx1efQnwEQSfEMAnZ44vjY3wK7TTMCFnyUho7GK",
+    "/ip6/2406:da1c:15bf:3300:9906:21aa:9171:5aa6/tcp/4001/p2p/12D3KooWCLRiWGx1efQnwEQSfEMAnZ44vjY3wK7TTMCFnyUho7GK",
+    "/ip6/2406:da1c:15bf:3300:9906:21aa:9171:5aa6/tcp/8443/p2p/12D3KooWCLRiWGx1efQnwEQSfEMAnZ44vjY3wK7TTMCFnyUho7GK"
   ],
   "max_peers_per_node": 50,
   "bandwidth_share_limit_mb": 500,
