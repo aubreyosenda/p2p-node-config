@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "seeds": [
     {
-      "address": "/ip4/63.176.178.11/tcp/4001/p2p/12D3KooWF4vsYbtFF296AGnb1Vyqf2wbmACZUgqbSUWUCMu3LPa3",
+      "address": "/ip4/52.57.90.10/tcp/4001/p2p/12D3KooWF4vsYbtFF296AGnb1Vyqf2wbmACZUgqbSUWUCMu3LPa3",
       "country": "EU",
       "label": "Bootstrap Server 1 (Frankfurt)",
       "domain": "",
@@ -10,7 +10,7 @@
       "is_bootstrap": true
     },
     {
-      "address": "/ip4/15.222.60.5/tcp/4001/p2p/12D3KooWQcvkE1TPeC84HUXYfdewSQFKYZLeHXxyVhv3xsydErHq",
+      "address": "/ip4/15.222.234.9/tcp/4001/p2p/12D3KooWQcvkE1TPeC84HUXYfdewSQFKYZLeHXxyVhv3xsydErHq",
       "country": "CA",
       "label": "Bootstrap Server 2 (Canada)",
       "domain": "",
@@ -18,7 +18,7 @@
       "is_bootstrap": true
     },
     {
-      "address": "/ip4/54.79.109.92/tcp/4001/p2p/12D3KooWCLRiWGx1efQnwEQSfEMAnZ44vjY3wK7TTMCFnyUho7GK",
+      "address": "/ip4/3.107.91.31/tcp/4001/p2p/12D3KooWCLRiWGx1efQnwEQSfEMAnZ44vjY3wK7TTMCFnyUho7GK",
       "country": "AU",
       "label": "Bootstrap Server 3 (Sydney)",
       "domain": "",
